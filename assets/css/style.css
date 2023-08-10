@@ -14,10 +14,18 @@
     border: 2px solid gray;
     border-radius: 100px;
 }
-.button{
+
+
+.button {
     border: none;
     background-color: aqua;
 }
+
+.button2 {
+    border: none;
+    background-color: rgb(24, 112, 112);
+}
+
 .circle2 {
     height: 100px;
     width: 200px;
